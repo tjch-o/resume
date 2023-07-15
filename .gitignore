@@ -1,0 +1,6 @@
+*.swp
+*.un~
+out/
+*.aux
+*.log
+*.out
